@@ -1,3 +1,4 @@
+### Solution to exercise 3.6 of the textbook
 ###prepration of Data
 #install.packages('dobson')
 mortality <- dobson::mortality
