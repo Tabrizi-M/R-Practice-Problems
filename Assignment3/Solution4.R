@@ -1,5 +1,3 @@
-### this solution needs polishing
-
 ### probit regression via EM
 ### Y for complete data, X for the binary response and U for the predictor variable. .
 
